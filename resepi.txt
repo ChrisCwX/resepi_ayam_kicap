@@ -3,4 +3,6 @@ Bahan - bahan :
 
 
 
-Langkah :
+Langkah :sleep
+wait mom cook
+eat
